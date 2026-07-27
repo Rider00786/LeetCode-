@@ -13,22 +13,26 @@ class Solution {
 public:
 
     void search_path(TreeNode* root , string path , vector<string> &ans){
+        if(root == nullptr){
+            return;
+        }
+        if(!path.empty()){
+            path += "->";
+        }
+
+        path += to_string(root->val);
 
         if(root->left == nullptr && root->right == nullptr){
             ans.push_back(path);
             return;
         }
 
-        if(root->left){
-            search_path(root->left,path + "->" + to_string(root->left->val),ans);
-        }
-        if(root->right){
-            search_path(root->right,path + "->" + to_string(root->right->val),ans);
-        }
+        search_path(root->left,path,ans);
+        search_path(root->right,path,ans);
     }
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string> ans;
-        string path = to_string(root->val);
+        string path = "";
         search_path(root,path,ans);
 
         return ans;
