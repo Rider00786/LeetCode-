@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/Rider00786/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Rider00786/LeetCode-/tree/master/0257-binary-tree-paths) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rider00786/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rider00786/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Rider00786/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rider00786/LeetCode-/tree/master/0173-binary-search-tree-iterator) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
