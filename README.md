@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rider00786/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rider00786/LeetCode-/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rider00786/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rider00786/LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rider00786/LeetCode-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rider00786/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
