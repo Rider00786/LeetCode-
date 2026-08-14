@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rider00786/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rider00786/LeetCode-/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rider00786/LeetCode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/Rider00786/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rider00786/LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Rider00786/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Rider00786/LeetCode-/tree/master/1207-unique-number-of-occurrences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rider00786/LeetCode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rider00786/LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Rider00786/LeetCode-/tree/master/3731-find-missing-elements) |
