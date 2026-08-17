@@ -7,18 +7,15 @@ public:
             string s1 = words[i];
             int freq1[26] = {0};
 
+            for(char val : s1){
+                freq1[val -'a']++;
+            }
             
-
             for(int j =i+1 ; j<words.size() ; j++){
                 string s2 = words[j];
                 int freq2[26] = {0};
                 bool isequal = true;
                 int currmax = 0;
-
-                for(char val : s1){
-                    freq1[val -'a']++;
-                }
-
 
                 for(char val : s2){
                     freq2[val -'a']++;
