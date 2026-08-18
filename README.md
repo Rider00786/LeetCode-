@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rider00786/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rider00786/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Rider00786/LeetCode-/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rider00786/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rider00786/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Rider00786/LeetCode-/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Rider00786/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Rider00786/LeetCode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rider00786/LeetCode-/tree/master/0877-stone-game) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Rider00786/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rider00786/LeetCode-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rider00786/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
