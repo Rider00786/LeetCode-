@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Rider00786/LeetCode-/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/Rider00786/LeetCode-/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/Rider00786/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rider00786/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rider00786/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rider00786/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Rider00786/LeetCode-/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rider00786/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Rider00786/LeetCode-/tree/master/0257-binary-tree-paths) |
 ## Tree
