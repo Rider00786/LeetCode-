@@ -11,35 +11,20 @@
  */
 class Solution {
 public:
+    void helper(TreeNode* root , int k , vector<int> &ans){
+        if(root == nullptr){
+            return ;
+        }
 
-    int prevOrder = 0;
+        helper(root->left , k , ans);
+        ans.push_back(root->val);
+        helper(root->right , k , ans);
+    }
 
     int kthSmallest(TreeNode* root, int k) {
-        if(root == nullptr){
-            return -1;
-        }
-        // left
-        if(root->left){
-            int leftAns = kthSmallest(root->left,k);
-            if(leftAns != -1){ // no need to check further
-                return leftAns;
-            }
-        }
+        vector<int> ans;
+        helper(root , k , ans);  
 
-        // root
-        if((prevOrder + 1) == k){
-            return root->val;
-        }
-        prevOrder +=1;
-
-        // right
-        if(root->right){
-            int rightAns = kthSmallest(root->right,k);
-            if(rightAns != -1){ // no need to check further
-                return rightAns;
-            }
-        }
-
-        return -1;
+        return ans[k-1];
     }
 };
