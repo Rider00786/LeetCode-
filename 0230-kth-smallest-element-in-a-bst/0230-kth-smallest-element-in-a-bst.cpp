@@ -11,20 +11,28 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root , int k , vector<int> &ans){
+    
+void helper(TreeNode* root , int k ,int& ans, int& i){
         if(root == nullptr){
             return ;
-        }
+        }   
+            
+        helper(root->left , k , ans , i);
 
-        helper(root->left , k , ans);
-        ans.push_back(root->val);
-        helper(root->right , k , ans);
+        i++; // root
+        if(i == k){
+            ans = root->val;
+            return ;
+        }
+        
+        helper(root->right , k , ans, i);
     }
 
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> ans;
-        helper(root , k , ans);  
 
-        return ans[k-1];
+        int ans = 0;
+        int i = 0;
+        helper(root , k , ans , i);
+        return  ans ; // 1's indexed 
     }
 };
